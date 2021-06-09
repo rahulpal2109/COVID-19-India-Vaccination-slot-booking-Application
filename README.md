@@ -49,13 +49,13 @@
         * Get district id using GET district details API by passing in state name 
         * If you want to book at a particular center, get center_id using the GET vaccine centers by District Id API
         * Use POST Book Appointment API with the above details and other required information to book your appointment slot.  
-<br>        
+<br>  
 2. Run a background job to search for centers and book appointment when a slot is available  
-    * Use POST Schedule job API to place request.
-    * Can add additional parameter to filter the search criteria.
-    * When a slot is available, user is alerted with a notification sound and available slot details are displayed.
-    * User will get maximum 20 seconds to make the selection. If no input, then current slot is skipped.
-    * If a slot is selected, OTP is sent to mobile of user which needs to be entered when prompted.
+    * Use POST Schedule job API to place request.  
+    * Can add additional parameter to filter the search criteria.  
+    * When a slot is available, user is alerted with a notification sound and available slot details are displayed.  
+    * User will get maximum 20 seconds to make the selection. If no input, then current slot is skipped.  
+    * If a slot is selected, OTP is sent to mobile of user which needs to be entered when prompted.  
     
 ## API Support
 Refer to Postman documentation <a href="https://documenter.getpostman.com/view/16160319/TzY7eu5u" target="_blank">here</a>
