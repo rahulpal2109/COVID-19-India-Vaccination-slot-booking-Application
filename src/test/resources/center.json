@@ -1,0 +1,685 @@
+{
+  "centers": [
+    {
+      "center_id": 613870,
+      "name": "Inda UPHC Kharagpur",
+      "address": "Ward No. 2 Inda Anandanagar",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur Municipality",
+      "pincode": 721301,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1eb28aab-a920-4f20-9a02-a1542470a022",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "01554889-ed8f-473b-9547-13271054097b",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 591911,
+      "name": "UFWC KERANITOLA COVAXIN",
+      "address": "KERANITOLA",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Medinipur Municipality",
+      "pincode": 721101,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3314baf6-1b6c-4e1c-8876-b2af538d75e1",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 592359,
+      "name": "HIJLI RH - COVAXIN",
+      "address": "HIJLI Kharagpur Paschim Medinipur",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur-I",
+      "pincode": 721306,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "88b6975f-7288-4664-a081-6c330da03fb9",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 611111,
+      "name": "Natuk PHC CVC",
+      "address": "Natuk PS- Ghatal",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Ghatal",
+      "pincode": 721232,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c7d7aada-ff83-466e-a6e7-2d351f183403",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 546915,
+      "name": "Hijli RH - CVC",
+      "address": "HIJLI CO OPERATIVE SOCEITY KHARAGPUR MUNICIPALITY",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur-I",
+      "pincode": 721306,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4e9b3349-1f2a-44e1-9292-a579a4927f87",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 596654,
+      "name": "Keshpur RH Covaxin",
+      "address": "Keshpur Paschim Medinipur",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "KESHPUR",
+      "pincode": 721150,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6ac0b758-a388-4c3a-8d68-1be5e8eef53f",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 547072,
+      "name": "Midnapur UFWC",
+      "address": "Keranitola Midnapur",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Medinipur Municipality",
+      "pincode": 721101,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fb919db6-bad7-4d92-b751-cb7f8c5d8740",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 546898,
+      "name": "Sonakhali RH CVC",
+      "address": "SonakhaliSonakhaliPaschim Medinipur",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Daspur-II",
+      "pincode": 721146,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1a8fcedf-4e72-48a0-ba1b-c01a3ee3b462",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 581922,
+      "name": "MEDINIPUR POLICE HOSPITAL",
+      "address": "Medinipur Police Line Midnapore",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Medinipur Municipality",
+      "pincode": 721101,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b02087d4-664b-4cc2-8d03-ecd7eb472dd9",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613891,
+      "name": "Rajogram Kharida UPHCKharagpur",
+      "address": "Ward No. 8 Rajogram Kharida",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur Municipality",
+      "pincode": 721301,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1b0e29ba-3011-4c42-a9dc-bc5156ad994f",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "d5c4e03e-2fe9-4ca1-a3d3-7c250239b41a",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 546899,
+      "name": "KESHPUR RH-CVC-Covishield",
+      "address": "KESHPUR",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "KESHPUR",
+      "pincode": 721150,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "919c75e8-ed20-4caa-9b3e-3f85eb94d0a1",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 610202,
+      "name": "Babuidanga PHC CVC",
+      "address": "Vill - Babuidanga P.O - Amlashuli Dist - Paschim Medinipur",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Garhbeta - II",
+      "pincode": 721128,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6bbb83e7-d04b-4d94-875a-491edd46ab72",
+          "date": "08-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613895,
+      "name": "Malancha UPHC Kharagpur",
+      "address": "Ward No. 11 Chandipur Malancha",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur Municipality",
+      "pincode": 721301,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "cb83f3f5-e007-4ae4-a2bb-d7ef431ae328",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613917,
+      "name": "GIRI MAIDAN UPHC Kharagpur",
+      "address": "Ward No. 18 GIRI MAIDAN Vidyasagar Abasan",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur Municipality",
+      "pincode": 721301,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "cf00a2a3-5c7f-4d72-b826-679938397e3f",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 546902,
+      "name": "Garhbeta RH-CVC",
+      "address": "Garhbeta Garhbeta-1",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Garhbeta-I",
+      "pincode": 721127,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d0fbd690-aa7a-4ede-9535-a9c084449bf3",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613847,
+      "name": "Abasgarh UPHC Medinipur",
+      "address": "Ward No. 2 Abasgarh Kuikota",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Medinipur Municipality",
+      "pincode": 721101,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d597b35e-3e20-459e-a815-b285968f42f5",
+          "date": "09-06-2021",
+          "available_capacity": 2,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 2,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613904,
+      "name": "AYMA UPHC Kharagpur",
+      "address": "Ward No. 32 AYMA",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur Municipality",
+      "pincode": 721301,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6db9a9b3-f670-42ed-afec-4102ae52e38b",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613906,
+      "name": "Talbagicha UPHC Kharagpur",
+      "address": "Ward No. 35 Talbagicha",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Kharagpur Municipality",
+      "pincode": 721301,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c2209569-390f-4d4a-9ce4-3f9ec6bb9647",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613842,
+      "name": "Ghatal UPHC",
+      "address": "Ward No. 5 Gambhir Nagar Ghatal",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Ghatal Municipality",
+      "pincode": 721212,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "be1a207d-eb7e-43f0-9053-83cb5b3255ce",
+          "date": "09-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 613856,
+      "name": "Berh Ballavpur UPHC Medinipur",
+      "address": "Ward No. 16 Berh Ballavpur Manikpur",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Medinipur Municipality",
+      "pincode": 721101,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "2ef8cba2-2608-45ec-bc15-7baf9ea8656c",
+          "date": "09-06-2021",
+          "available_capacity": 2,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 2,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 581925,
+      "name": "Saratpally UPHC Midnapur - CVC",
+      "address": "SARATPALLY MIDNAP0RE",
+      "state_name": "West Bengal",
+      "district_name": "Paschim Medinipore",
+      "block_name": "Medinipur Municipality",
+      "pincode": 721101,
+      "lat": 22,
+      "long": 87,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4836e145-d6db-447a-abe3-d9747a0b3277",
+          "date": "09-06-2021",
+          "available_capacity": 2,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 2,
+          "available_capacity_dose2": 0
+        }
+      ]
+    }
+  ]
+}
