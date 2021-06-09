@@ -25,7 +25,7 @@
     * Open Command Prompt and run the below command:  
         `java -version`
     * If you do not have java installed, you can install it from <a href="https://www.oracle.com/in/java/technologies/javase-jre8-downloads.html" target="_blank">here</a>  
-2. Download the application jar file from <a href="https://bit.ly/3z3LNYB" target="_blank">here</a>  
+2. Download the application jar file from <a href="https://bit.ly/3g4ygsb" target="_blank">here</a>  
 
 ## Usage  
 1. Copy the cowin-app-1.0.jar to a desired location on your computer.
